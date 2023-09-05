@@ -1,9 +1,6 @@
-# Usaeng-Crossing
+# Usaeng-Crossing (모여봐요 유생의 숲)
 
-![1](https://github.com/Yanghyeondong/Usaeng-Crossing/assets/37038105/aa8fc48e-8fa8-4fc1-bf46-ec70d6c3bdc9)
-![2](https://github.com/Yanghyeondong/Usaeng-Crossing/assets/37038105/310885db-91c5-4a6f-b292-b0022057c064)
-![3](https://github.com/Yanghyeondong/Usaeng-Crossing/assets/37038105/821bf951-82a6-4186-9024-cf82f6027824)
-![4](https://github.com/Yanghyeondong/Usaeng-Crossing/assets/37038105/4ee85efb-0e2c-41fe-a858-db403fa4de69)
+![44](https://github.com/Yanghyeondong/Usaeng-Crossing/assets/37038105/3e9e6cac-9b95-4fb4-8942-6ab3ef209d85)
 
 ## Installation
 
